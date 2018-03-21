@@ -6,3 +6,7 @@ pillow 5.0.0
 
 usage:
 put your images in "11" folder and run ImageFusion.py
+
+#### Output Results.
+
+![](./fusionIm.png)
