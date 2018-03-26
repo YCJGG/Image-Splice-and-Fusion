@@ -10,3 +10,5 @@ put your images in "11" folder and run ImageFusion.py
 #### Output Results.
 
 ![](./fusionIm.png)
+
+![](./fusionIm1.png)
